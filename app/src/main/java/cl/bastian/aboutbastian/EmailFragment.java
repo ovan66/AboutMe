@@ -21,6 +21,7 @@ import android.widget.TextView;
 public class EmailFragment extends Fragment {
 
 
+
     public EmailFragment() {
         // Required empty public constructor
     }
